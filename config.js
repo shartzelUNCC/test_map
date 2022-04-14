@@ -6,7 +6,7 @@ const config = {
   accessToken:
     'pk.eyJ1Ijoic2FtbXktYiIsImEiOiJjbDF5ZHB3aGQwNjdnM2NvNncxZzB0d2ZyIn0.nkbEjS8P_tgz3ZW3YrHuMA',
   CSV: './DisCourse_Dataset.csv',
-  center: [35.23165, -80.84275],
+  center: [35.22495, -80.84190],
   zoom: 6,
   title: 'Choose from a list of filters to select the best course for you!',
   description:
