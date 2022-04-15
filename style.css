@@ -92,38 +92,7 @@
 
   }
 
-.topnav {
-    background-color: #f2f2f2;
-    position: absolute;
-    width: 100%;
-    height: 153px;
-    top: 0;
-}
-.topnav ul li {
-    background-color: #f2f2f2;
-    overflow: hidden;
-    text-decoration: none;
-    display: inline-block;
-}
-
-.topnav ul li a {
-    float: right;
-    color: black;
-    text-align: center;
-    padding: 45px 45px;
-    text-decoration: none;
-    font-size: 25px;
-    top: 0;
-    
-    
-}
-
-.topnav ul li a:hover {
-    background-color: #ddd;
-    color: black;
-}
-
-.topnav ul li a.active {
+li:hover{
+    color:  #0d6129;
     background-color: #0d6129;
-    color: white;
 }
