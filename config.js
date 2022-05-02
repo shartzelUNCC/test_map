@@ -26,6 +26,16 @@ const config = {
     },
     {
       type: 'dropdown',
+      title: 'Landscape: ',
+      columnHeader: 'Landscape',
+      listItems: [
+        'Open',
+        'Wooded',
+        'Mixed',
+      ],
+    },
+    {
+      type: 'dropdown',
       title: 'Difficulty: ',
       columnHeader: 'Difficulty',
       listItems: [
